@@ -1,5 +1,4 @@
 
-```markdown
 # Data ETL Pipeline with Python
 
 This repository demonstrates how to develop a Data ETL (Extract, Transform, Load) pipeline using Python. The pipeline extracts data from the Fashion-MNIST dataset, transforms it, and loads it into an SQLite database.
